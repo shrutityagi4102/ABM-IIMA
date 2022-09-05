@@ -13,3 +13,9 @@ ans.xlsx : This is the autogenersted excel sheet which is generated using Python
 sim.py  : This Python file is responsible for reading Paramteres from the excel sheet and sending it to other Python files ahead
 
 Individual.py, World.py, Location.py : In these Python files as per paramtetes in the excel sheet, I have performed agent based modeling and returned a nested dictionary containing all details to be stored in the excel sheet
+
+excel.py  :This python file is used to generate the excel sheet. It generates columns and rows as per the data and fills the data coming from other py files
+
+Report.py : This Python file genertaes reports as mentioned in the excel sheet, screenshots of some generated reports and visualisations can be found in the screenshots folder
+
+Supporting docs : This folder consists of different documents which I created and studied during the course of my internship
